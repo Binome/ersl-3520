@@ -1,5 +1,6 @@
 package com.github.binome.ersl3520;
 
+import com.github.binome.ersl3520.init.ERSLBlocks;
 import com.github.binome.ersl3520.init.ERSLItems;
 import com.github.binome.ersl3520.proxies.CommonProxy;
 
@@ -23,6 +24,7 @@ public class ERSL
 	public void preInit(FMLPreInitializationEvent event)
 	{
 		ERSLItems.registerItems();
+		ERSLBlocks.registerBlocks();
 	}
 
 	@Mod.EventHandler

@@ -7,6 +7,7 @@ import net.minecraft.item.Item;
 
 public class ERSLItems
 {
+	//The little stick with a hand on it that Tanis has.
 	public static Item pointerStick = new ItemERSL("pointerStick");
 	
 	public static void registerItems()
