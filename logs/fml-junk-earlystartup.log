@@ -16,3 +16,12 @@
 [19:29:20] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
 [19:29:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
 [19:29:20] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:16:33] [main/INFO] [GradleStart]: username: revbtksc@gmail.com
+[16:16:33] [main/INFO] [GradleStart]: Extra: []
+[16:16:33] [main/INFO] [GradleStart]: Password found, attempting login
+[16:16:33] [main/INFO] [GradleStart]: Login Succesful!
+[16:16:33] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {"twitch_access_token":["ob51lfn5y28fbbo8xz0riu3f7r9pjc6"]}, --assetsDir, C:/Users/SkylarRowan/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, ae3957ccf8f64de5bf36dcb4a5948320, --username, BoredomRanger, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[16:16:33] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:16:33] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:16:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[16:16:33] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
