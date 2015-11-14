@@ -9,8 +9,11 @@ public class ERSLBlocks
 {
 	public static Block tanisBlock = new BlockERSL("tanisBlock");
 	
+	
+	
 	public static void registerBlocks()
 	{
 		RegisterHelper.registerBlock(tanisBlock);
 	}
+	
 }
