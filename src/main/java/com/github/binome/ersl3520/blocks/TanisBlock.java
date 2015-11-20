@@ -6,9 +6,9 @@ import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.creativetab.CreativeTabs;
 
-public class BlockERSL extends Block
+public class TanisBlock extends Block
 {
-    public BlockERSL(String name)
+    public TanisBlock(String name)
     {
         super(Material.rock);
         this.setCreativeTab(CreativeTabs.tabBlock);
