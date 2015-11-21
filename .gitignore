@@ -3,3 +3,5 @@
 .eclipse
 .logs
 /logs/
+/config/
+/saves/
