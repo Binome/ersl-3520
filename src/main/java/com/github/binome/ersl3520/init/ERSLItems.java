@@ -17,6 +17,8 @@ public class ERSLItems
 	public static Item tutorialHelmet = new ItemModArmor("tutorial_helmet", beard, "tutorial", 0);
 	public static Item tutorialChestplate = new ItemModArmor("tutorial_chestplate", beard, "tutorial", 1);
 	
+	
+	
 	public static void registerItems()
 	{
 		RegisterHelper.registerItem(pointerStick);
