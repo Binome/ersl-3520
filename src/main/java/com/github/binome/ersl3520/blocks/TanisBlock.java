@@ -10,9 +10,12 @@ public class TanisBlock extends Block
 {
     public TanisBlock(String name)
     {
-        super(Material.rock);
+        super(Material.iron);
         this.setCreativeTab(CreativeTabs.tabBlock);
         this.setBlockName(name);
         this.setBlockTextureName(Reference.MODID + ":" + name);
+        
+        
     }
+  
 }

@@ -5,9 +5,9 @@ import com.github.binome.ersl3520.Reference;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 
-public class ItemERSL extends Item
+public class PointerStick extends Item
 {
-	public ItemERSL(String name)
+	public PointerStick(String name)
 	{
 		super();
 		this.setCreativeTab(CreativeTabs.tabMisc);
