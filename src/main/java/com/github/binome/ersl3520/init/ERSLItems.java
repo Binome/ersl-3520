@@ -2,7 +2,7 @@ package com.github.binome.ersl3520.init;
 
 import com.github.binome.ersl3520.helpers.RegisterHelper;
 import com.github.binome.ersl3520.items.PointerStick;
-import com.github.binome.ersl3520.items.ItemModArmor;
+import com.github.binome.ersl3520.items.BeardArmor;
 
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemArmor.ArmorMaterial;
@@ -14,16 +14,16 @@ public class ERSLItems
     
 	//The little stick with a hand on it that Tanis has.
 	public static Item pointerStick = new PointerStick("pointerStick");
-	public static Item tutorialHelmet = new ItemModArmor("tutorial_helmet", beard, "tutorial", 0);
-	public static Item tutorialChestplate = new ItemModArmor("tutorial_chestplate", beard, "tutorial", 1);
+	public static Item beardHelmet = new BeardArmor("beard_helmet", beard, "tutorial", 0); //0 for helmet
+	public static Item beardChestplate = new BeardArmor("beard_chestplate", beard, "tutorial", 1);// 1 for chestplate
 	
 	
 	
 	public static void registerItems()
 	{
 		RegisterHelper.registerItem(pointerStick);
-		RegisterHelper.registerItem(tutorialHelmet); //0 for helmet
-		RegisterHelper.registerItem(tutorialChestplate); // 1 for chestplate
+		RegisterHelper.registerItem(beardHelmet);
+		RegisterHelper.registerItem(beardChestplate); 
 	}
 	
 	

@@ -41,6 +41,12 @@ public class ERSL
                 'x', new ItemStack(Blocks.lapis_block),
                 'y', new ItemStack(Items.quartz),
                 'z', new ItemStack(Items.blaze_rod));
+        GameRegistry.addRecipe(new ItemStack(ERSLItems.beardHelmet),"xxx","x x","yyy",
+        		'x', new ItemStack(Items.iron_ingot),
+        		'y', new ItemStack(Items.string));
+        GameRegistry.addRecipe(new ItemStack(ERSLItems.beardChestplate), "xyx","xxx","xxx",
+        		'x', new ItemStack(Items.iron_ingot),
+        		'y', new ItemStack(Items.string));
 	}
 
 	@Mod.EventHandler
