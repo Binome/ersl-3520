@@ -3,13 +3,13 @@ package com.github.binome.ersl3520.items;
 import com.github.binome.ersl3520.Reference;
 
 import net.minecraft.creativetab.CreativeTabs;
-import net.minecraft.item.Item;
+import net.minecraft.item.ItemSword;
 
-public class PointerStick extends Item
+public class PointerStick extends ItemSword
 {
-	public PointerStick(String name)
+	public PointerStick(String name, ToolMaterial mat)
 	{
-		super();
+		super(mat);
 		this.setCreativeTab(CreativeTabs.tabMisc);
 		this.setUnlocalizedName(name);
 		this.setTextureName(Reference.MODID + ":" + name);

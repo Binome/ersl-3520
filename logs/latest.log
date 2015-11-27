@@ -1,29 +1,46 @@
-[11:23:24] [main/INFO]: Logging in with username & password
-[11:23:25] [main/INFO]: Setting user: BoredomRanger
-[11:23:26] [Client thread/INFO]: LWJGL Version: 2.9.1
-[11:23:27] [Twitch authenticator/ERROR]: Given twitch access token is invalid
-[11:23:31] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:TanisCraft
-[11:23:32] [Sound Library Loader/INFO]: Sound engine started
-[11:23:32] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[11:23:32] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[11:23:32] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:TanisCraft
-[11:23:32] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[11:23:32] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[11:23:33] [Sound Library Loader/INFO]: Sound engine started
-[11:23:36] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[11:23:36] [Server thread/INFO]: Generating keypair
-[11:23:36] [Server thread/INFO]: Preparing start region for level 0
-[11:23:37] [Server thread/INFO]: Changing view distance to 12, from 10
-[11:23:37] [Server thread/INFO]: BoredomRanger[local:E:8eaf0de8] logged in with entity id 406 at (1.1789674487377952, 69.0, 360.57586667056984)
-[11:23:37] [Server thread/INFO]: BoredomRanger joined the game
-[11:23:41] [Server thread/INFO]: Saving and pausing game...
-[11:23:41] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:23:41] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:23:41] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[11:23:42] [Server thread/INFO]: Stopping server
-[11:23:42] [Server thread/INFO]: Saving players
-[11:23:42] [Server thread/INFO]: Saving worlds
-[11:23:42] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:23:42] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:23:42] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[11:23:43] [Client thread/INFO]: Stopping!
+[20:45:35] [main/INFO]: Logging in with username & password
+[20:45:37] [main/INFO]: Setting user: BoredomRanger
+[20:45:38] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:45:39] [Twitch authenticator/ERROR]: Given twitch access token is invalid
+[20:45:43] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:TanisCraft
+[20:45:44] [Sound Library Loader/INFO]: Sound engine started
+[20:45:45] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[20:45:45] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[20:45:45] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:TanisCraft
+[20:45:45] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:45:45] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[20:45:46] [Sound Library Loader/INFO]: Sound engine started
+[20:45:52] [Client thread/INFO]: Deleting level New World
+[20:45:52] [Client thread/INFO]: Attempt 1...
+[20:45:57] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[20:45:57] [Server thread/INFO]: Generating keypair
+[20:45:57] [Server thread/INFO]: Converting map!
+[20:45:57] [Server thread/INFO]: Scanning folders...
+[20:45:57] [Server thread/INFO]: Total conversion count is 0
+[20:45:57] [Server thread/INFO]: Preparing start region for level 0
+[20:45:58] [Server thread/INFO]: Preparing spawn area: 13%
+[20:45:59] [Server thread/INFO]: Preparing spawn area: 35%
+[20:46:00] [Server thread/INFO]: Preparing spawn area: 63%
+[20:46:01] [Server thread/INFO]: Preparing spawn area: 93%
+[20:46:01] [Server thread/INFO]: Changing view distance to 12, from 10
+[20:46:02] [Server thread/INFO]: BoredomRanger[local:E:670fa8a4] logged in with entity id 245 at (120.5, 72.0, 243.5)
+[20:46:02] [Server thread/INFO]: BoredomRanger joined the game
+[20:46:13] [Client thread/INFO]: Warning: Clientside chunk ticking took 108 ms
+[20:46:21] [Client thread/INFO]: Warning: Clientside chunk ticking took 228 ms
+[20:46:21] [Client thread/INFO]: Warning: Clientside chunk ticking took 104 ms
+[20:46:32] [Server thread/INFO]: BoredomRanger has just earned the achievement [Taking Inventory]
+[20:46:32] [Client thread/INFO]: [CHAT] BoredomRanger has just earned the achievement [Taking Inventory]
+[20:46:32] [Client thread/INFO]: Warning: Clientside chunk ticking took 120 ms
+[20:47:02] [Server thread/INFO]: [BoredomRanger: Set own game mode to Survival Mode]
+[20:47:02] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[20:47:23] [Server thread/INFO]: Saving and pausing game...
+[20:47:23] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:47:23] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:47:23] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:47:24] [Server thread/INFO]: Stopping server
+[20:47:24] [Server thread/INFO]: Saving players
+[20:47:24] [Server thread/INFO]: Saving worlds
+[20:47:24] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:47:24] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:47:24] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:47:25] [Client thread/INFO]: Stopping!
